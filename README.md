@@ -1,1 +1,1 @@
-# paletto_th.github.io
+# paletto.github.io
