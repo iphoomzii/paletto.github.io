@@ -8,6 +8,10 @@ To play this game there are two rules:
 
 Stay Tune for update!
 
+update 14.7.2021:
+- added more description
+- added more winning conditions (you start at any position) 
+
 
 ## Paletto เป็นเกมสำหรับการเรียงลำดับสี
 
@@ -16,6 +20,10 @@ Stay Tune for update!
 2) เลือก 1 ตัวแล้วสลับกับตัวที่สามที่อยู่ในด้านตามเข็มนาฬิกา
 
 การอัพเดทจะเพิ่มมาในไม่ช้า!
+
+การปรับปรุง ณ วันที่ 14 กค 2564:
+- เพิ่มคำอธิบายวิธีการเล่น
+- เพิ่มเงื่อนไขการชนะ (สามารถเริ่มที่ตำแหน่งไหนก็ได้)
 
 
 ## Good Luck Have Fun!
