@@ -12,6 +12,9 @@ update 14.7.2021:
 - added more description
 - added more winning conditions (you start at any position) 
 
+update 15.7.2021:
+- added comment link URL (Google form)
+
 
 ## Paletto เป็นเกมสำหรับการเรียงลำดับสี
 
@@ -24,6 +27,9 @@ update 14.7.2021:
 การปรับปรุง ณ วันที่ 14 กค 2564:
 - เพิ่มคำอธิบายวิธีการเล่น
 - เพิ่มเงื่อนไขการชนะ (สามารถเริ่มที่ตำแหน่งไหนก็ได้)
+
+การปรับปรุง ณ วันที่ 15 กค 2564:
+- เพิ่มลิ้งสำหรับตอบกลับผู้พัฒนา
 
 
 ## Good Luck Have Fun!
